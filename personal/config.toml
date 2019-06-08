@@ -1,26 +1,3 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Husam Shaik"
-theme = "personal-web"
-copyright="© Husam Shaik"
-
-[params.intro]
-  main = "Husam Shaik"
-  sub = "I make stuff!"
-
-
-[params.sidebar]
-  backgroundImage = 'images/sidebar1.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
-  gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "images/logo.JPG" # - default "/images/edna-west.jpg"
-
-[menu]
-
-[[menu.main]]
-  identifier = "projects"
-  name = "Projects"
-  title = "Projects"
-  url = "/projects/"
-  weight = -120
-
-
+title = "My New Hugo Site"
