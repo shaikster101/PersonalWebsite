@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/index.html</loc>
+    <loc>/fr/index.html</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/index.html"
+                href="/index.html"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/index.html"
+                href="/fr/index.html"
                 />
   </url>
   
   <url>
-    <loc>http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/</loc>
+    <loc>/fr/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/"
+                href="/fr/"
                 />
   </url>
   
   <url>
-    <loc>http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/tags/</loc>
+    <loc>/fr/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/tags/"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="fr"
-                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/tags/"
+                href="/fr/tags/"
                 />
   </url>
   

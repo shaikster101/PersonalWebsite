@@ -2,41 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Husam Shaik</title>
-    <link>http://hshaik.com.s3-website-us-east-1.amazonaws.com/</link>
+    <link>/index.html</link>
     <description>Recent content on Husam Shaik</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
-    <lastBuildDate>Wed, 09 Apr 2014 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>http://hshaik.com.s3-website-us-east-1.amazonaws.com/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://hshaik.com.s3-website-us-east-1.amazonaws.com/about/</guid>
-      <description>  I am a rising senior pursuing a B.S. in Computer Science and minor in Statistics and Entrprenurship. I am very passonate about Emerging Technologies and their applications in everyday life. My interests include, exploring technologies, playing soccer and bouldering. I am currently looking for an internship for Fall 2019.  </description>
-    </item>
-    
-    <item>
-      <title>Projects</title>
-      <link>http://hshaik.com.s3-website-us-east-1.amazonaws.com/projects/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://hshaik.com.s3-website-us-east-1.amazonaws.com/projects/</guid>
-      <description> Alexa Vibes Mine Sweeper Random Forest Regression for ATD Hackathon </description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>http://hshaik.com.s3-website-us-east-1.amazonaws.com/research/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>http://hshaik.com.s3-website-us-east-1.amazonaws.com/research/</guid>
-      <description> Project North Star Group Entitativity Models </description>
-    </item>
     
   </channel>
 </rss>
