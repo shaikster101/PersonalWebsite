@@ -88,7 +88,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "email"
-    url  = "mailto:nobody@example.com"
+    url  = "hshaik@live.unc.edu"
 
   [[params.social]]
     name = "github"
@@ -96,7 +96,7 @@ disableHugoGeneratorInject = false
 
   [[params.social]]
     name = "linkedin"
-    url  = "https://www.linkedin.com/"
+    url  = "https://www.linkedin.com/husam-shaik"
 
 [languages]
   [languages.en]
