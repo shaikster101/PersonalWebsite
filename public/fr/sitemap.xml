@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/index.html</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/index.html"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/index.html"
+                />
+  </url>
+  
+  <url>
+    <loc>http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/tags/</loc>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="http://hshaik.com.s3-website-us-east-1.amazonaws.com/fr/tags/"
+                />
+  </url>
+  
+</urlset>
