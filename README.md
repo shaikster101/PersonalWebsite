@@ -1,5 +1,7 @@
 # My personal Website
 
+![Home Page](/static/img/Home.PNG)
+
 ## Made usign Hugo Static Templating  
 
 ## Edited using CSS, HTML and Github Flavored Markdown  
