@@ -5,10 +5,16 @@ aliases = ["about-us","about-hugo","contact"]
 +++
 
 
-{{< image src="/img/ms2.png" alt="Hello Friend" position="center" style="border-radius: 8px; width:300px; height:300px;" >}}
+{{< image src="/img/shaik.jpg" alt="Hello Friend" position="center" style="border-radius: 8px; width:275    px; height:390px;" >}}
 
-> #### I am a rising senior pursuing a B.S. in Computer Science and minor in Statistics and Entrprenurship. 
+I am a senior at UNC-Chapel Hill graduating in May 2020 with a B.S. in Computer Science and a minor in Statistics.
 
-> #### I am very passonate about Emerging Technologies and their applications in everyday life. My interests include, exploring technologies, playing soccer and bouldering. 
+My primary interests lie in the intersection of **Augmented Reality, Computer Vision and Machine Learning**. I want to build consumer grade, user centric AR HMD'S which leverage the power of holograms and spatial computing to give users a new way to interact with information.
 
-> #### I am currently looking for an internship for Fall 2019. 
+In my free time I like to indoor rock climb and playing video. I believe that coding and software engineering is very similar to rock climbing. Both require careful analysis before each move with multiple ways to solving a problem. 
+
+I hope to go to Mars if the opportunity presents itself. 
+
+
+
+### Ad astra
