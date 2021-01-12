@@ -1,20 +1,19 @@
 +++
 title = "About"
-date = "2014-04-09"
+date = "2021-01-12"
 aliases = ["about-us","about-hugo","contact"]
 +++
 
 
 {{< image src="/img/shaik.jpg" alt="Hello Friend" position="center" style="border-radius: 8px; width:275    px; height:390px;" >}}
 
-I am a senior at UNC-Chapel Hill graduating in May 2020 with a B.S. in Computer Science and a minor in Statistics.
+I am a first-year master's student at UNC-Chapel Hill with a B.S in Computer Science and minor in Statistics.
 
-My primary interests lie in the intersection of **Augmented Reality, Computer Vision and Machine Learning**. I want to build consumer grade, user centric AR HMD'S which leverage the power of holograms and spatial computing to give users a new way to interact with information.
+My primary interests are in the use of Augmented/Virtual Reality and marker less pose estimation for training and rehabilitation. I also dabble in real-time 3D reconstruction and Telepresence systems. 
 
-In my free time I like to indoor rock climb and playing video. I believe that coding and software engineering is very similar to rock climbing. Both require careful analysis before each move with multiple ways to solving a problem. 
-
-I hope to go to Mars if the opportunity presents itself. 
+In my free time I like to indoor rock climb, play video games, paint and tinker with technology. I am also an avid space nut with dreams of going into space!
 
 
+Please feel free to email me at: <a href = "mailto: hshaik@cs.unc.edu">hshaik@cs.unc.edu</a>
 
 ### Ad astra

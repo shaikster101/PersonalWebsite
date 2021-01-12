@@ -5,6 +5,7 @@ aliases = ["porfolio","projects"]
 +++
 
 
+
 ## ***Morehead AR Paintings***
 
 **Status:** In Progress
@@ -14,6 +15,16 @@ aliases = ["porfolio","projects"]
 
 ---
 
+
+## ***Simple 2D Graphics Engine***
+
+**Status:** Finished
+
+**Description:** A Simple Graphics Rendering engine written in `C++` with support for 2D Polygons, Blend-Modes, Filters, curves and simple shaders.
+
+![](/img/projects/lion_head.png)
+
+---
 
 ## ***CLISP interpreter in Java with concurrent evaluation of basic operators.***
 
