@@ -14,17 +14,23 @@ aliases = ["work","research","publications"]
 
 ## ***Mobile, Egocentric Human Body Motion Reconstruction Using Only Eyeglasses-mounted Cameras and a Few Body-worn Inertial Sensors***
 
-**Status:** Submitted to IEEEVR2021
+**Status:** Accepted to IEEEVR2021
 
-**Abstract:** We present a standalone real-time system for the 3D capture of an individual, relying only on cameras embedded into a `head-worn device` and `Inertial Measurement Units` (IMUs) worn on the wrists and ankles of the user. We envision that head-worn augmented reality (AR) systems would one day shrink to the size of everyday prescription eyeglasses with a wide-field-of-view (FOV) AR display, and that the proposed 3D capture of user experiences could become a commonplace feature of such head-worn devices.
-
-Our goal is a fully mobile telepresence system, relying on widely available wearable technology, embedded in commonly worn accessories: cameras in eyeglasses, IMUs in wristwatches and shoes. While this approach allows for convenient, unobtrusive capture, reconstruction and communication of experiences at any indoor or outdoor location, it also introduces new challenges.
-
-When using an eyeglasses-frame form factor headset for video capture, the user's limb motions are frequently unobservable by the head-worn cameras, due to self-occlusion, occlusion by the body, or being outside the camera views. Prior egocentric capture head gear featured cameras obtrusively mounted farther away from the face, which allowed better body and limb visibility, but are unacceptable for daily use. Similarly, prior approaches for 3D pose reconstruction using IMUs require too many sensors to be adopted in daily use, even with miniaturization. On the other hand, reducing the number of sensors results in pose ambiguities.
-
-Our egocentric reconstruction of the wearer's geometry is performed via learning-based pose estimation, which fuses inputs from visual and inertial sensors that complement each other, overcoming problems such as inconsistent limb visibility, as well as IMU pose ambiguity and measurement noise. At each time instant, the user's pose is re-targeted to a surface model, resulting in a high-fidelity reconstruction.
-
-We demonstrate our system by reconstructing various human body movements and show that our visual-inertial learning-based method, which runs at 30 Hz, outperforms both visual-only and inertial-only approaches. We captured an egocentric visual-inertial 3D human pose dataset, which we plan to make publicly available for training and evaluating similar reconstruction methods.
+**Abstract:** We envision a convenient telepresence system available to users
+anywhere, anytime. Such a system requires displays and sensors embedded in commonly worn items such as eyeglasses, wristwatches,
+and shoes. To that end, we present a standalone real-time system for
+the dynamic 3D capture of a person, relying only on cameras embedded into a head-worn device, and on Inertial Measurement Units
+(IMUs) worn on the wrists and ankles. Our prototype system egocentrically reconstructs the wearer’s motion via learning-based pose
+estimation, which fuses inputs from visual and inertial sensors that
+complement each other, overcoming challenges such as inconsistent
+limb visibility in head-worn views, as well as pose ambiguity from
+sparse IMUs. The estimated pose is continuously re-targeted to a
+prescanned surface model, resulting in a high-fidelity 3D reconstruction. We demonstrate our system by reconstructing various human
+body movements and show that our visual-inertial learning-based
+method, which runs in real time, outperforms both visual-only and
+inertial-only approaches. We captured an egocentric visual-inertial
+3D human pose dataset, which we plan to make publicly available
+for training and evaluating similar methods.
 
 ![](/img/research/ego-out.PNG)
 
